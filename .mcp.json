@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "socialgrowthengineers": {
+      "type": "http",
+      "url": "https://www.socialgrowthengineers.com/mcp"
+    }
+  }
+}

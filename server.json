@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.socialgrowthengineers/mcp",
+  "title": "Social Growth Engineers",
+  "description": "Viral short-form videos, hooks, app growth playbooks and App Store data for marketers.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.socialgrowthengineers.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.socialgrowthengineers.com/mcp"
+    }
+  ]
+}
