@@ -51,6 +51,14 @@ claude mcp add --transport http socialgrowthengineers https://www.socialgrowthen
 }
 ```
 
+## Find it in MCP directories
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.socialgrowthengineers)
+- [Smithery](https://smithery.ai/server/topinit/socialgrowthengineers)
+- [MCP.so](https://mcp.so/servers/social-growth-engineers)
+- [AllMCPs](https://allmcps.com/mcp/social-growth-engineers)
+- [MCP Repository](https://mcprepository.com/top-init/socialgrowthengineers-mcp-registry-listing)
+
 ## Also from the same team
 
 - [App Store Tracker MCP](https://github.com/top-init/appstoretracker-mcp-registry-listing): iOS rankings, reviews, keywords and revenue estimates
