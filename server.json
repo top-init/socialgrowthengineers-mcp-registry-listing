@@ -3,12 +3,16 @@
   "name": "com.socialgrowthengineers/mcp",
   "title": "Social Growth Engineers",
   "description": "Viral short-form videos, hooks, app growth playbooks and App Store data for marketers.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.socialgrowthengineers.com",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://www.socialgrowthengineers.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/top-init/socialgrowthengineers-mcp-registry-listing",
+    "source": "github"
+  }
 }
